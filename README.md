@@ -1,2 +1,2 @@
 # map
-map repo
+This is the repo to store maps
